@@ -12,5 +12,5 @@ usando HTML, CSS e JS
 <p align="center">
   <img src="https://i.postimg.cc/8c5kR4Fd/HTMLZUDO.webp" width="100">
   <img src="https://i.postimg.cc/WpW12BK5/css-3.png" width="100">
-  <img src="https://i.postimg.cc/jj4RBmPQ/javascript.webp" width="100">
+  <img src="https://i.postimg.cc/jj4RBmPQ/javascript.webp" width="90">
 </p>
