@@ -1,3 +1,6 @@
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br>JavaScript
+
+
 <div align="center">
   <table>
     <tr>
