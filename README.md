@@ -1,2 +1,38 @@
-
-<img src="https://camo.githubusercontent.com/9e8b3af8a098a645ed25b96b0cf1912032b0bd7bb20b843213b8b5325ee75d24/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" height="50px">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" height="40"/><br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" height="40"/><br>Express
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/><br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48"/><br>Rest API
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js
+      </td>
+    </tr>
+  </table>
+</div>
