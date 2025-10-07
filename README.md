@@ -49,11 +49,11 @@ m
     <tr>
       <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
-        <br>Bash
+        <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
+        <br>HTML
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
