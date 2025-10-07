@@ -56,8 +56,8 @@ m
         <br>HTML
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
+        <br>CSS
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
