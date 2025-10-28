@@ -3,6 +3,13 @@ lç
   <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=recaihd&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" height="180" alt="recaihd's GitHub Stats" />
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recaihd&layout=compact&theme=tokyonight" height="180" alt="Top Langs" />
+
 l
 l9
 l
