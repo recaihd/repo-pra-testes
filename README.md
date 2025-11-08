@@ -1,7 +1,7 @@
 lçdeliciaaaa
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
-</p>
+</p>j
 
 <img src="https://github-readme-stats.vercel.app/api?username=recaihd&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" height="180" alt="recaihd's GitHub Stats" />
 
