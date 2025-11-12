@@ -1,4 +1,4 @@
- align="center">
+
   <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
 </p>j
 
