@@ -6,8 +6,6 @@
 <?php
 echo: "aiii";
 php?>
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recaihd&layout=compact&theme=tokyonight" height="180" alt="Top Langs" />
 
 l
