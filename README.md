@@ -10,11 +10,13 @@ php?>
 l
 l9
 l
-<p align="center">
+
+
+```bash
 <?php 
 echo "oi";
 ?>
-</p>
+```
 
 l
 
