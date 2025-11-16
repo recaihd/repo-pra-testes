@@ -10,12 +10,12 @@ php?>
 l
 l9
 l
-
+<p align="center">
 <?php 
-
 echo "oi";
-
 ?>
+</p>
+
 l
 
 l
