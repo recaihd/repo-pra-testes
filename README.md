@@ -1,4 +1,8 @@
 ```bash
+print("odeio colica")
+```
+
+```bash
 import random
 import os
 if random.randit(0,6) == 1:
