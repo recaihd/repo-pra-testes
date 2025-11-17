@@ -10,7 +10,9 @@ php?>
 l
 l9
 l
-
+```bash
+console.log("Hello, World!");
+```
 
 ```bash
 <?php 
