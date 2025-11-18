@@ -1,7 +1,6 @@
 ```bash
 print("odeio colica")
 ```
-
 ```bash
 import random
 import os
