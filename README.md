@@ -2,6 +2,14 @@
 print("odeio colica")
 ```
 ```bash
+#include <stdio.h>
+
+int main() {
+  printf("hello, world!\n");
+  return 0;
+}
+```
+```bash
 import random
 import os
 if random.randit(0,6) == 1:
