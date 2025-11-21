@@ -11,6 +11,9 @@ int main() {
   return 0;
 }
 ```
+```bash
+console.error(Error)
+```
 # Python troll
 ```bash
 import random
