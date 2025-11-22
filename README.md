@@ -1,9 +1,11 @@
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="100">
 
 # Python
 
 ```bash
-print("odeio colica")
+print("odeio colica");
 ```
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" height="100">
 
