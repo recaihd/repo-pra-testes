@@ -25,6 +25,7 @@ console.error(Error)
 # Python troll
 
 <img src="https://i.postimg.cc/cHzyWVHj/images-removebg-preview.png" height="100">
+
 ```bash
 import random
 import os
