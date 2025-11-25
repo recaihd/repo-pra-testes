@@ -48,8 +48,11 @@ echo "oi";
 <br>
   <img src="https://komarev.com/ghpvc/?username=RecaiHD&style=flat-square&color=blue" alt="Visitas no perfil"/>
 </p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=recaihd&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" height="180" alt="recaihd's GitHub Stats" />
+
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" height="100">
+
 <?php
 echo: "aiii";
 php?>
