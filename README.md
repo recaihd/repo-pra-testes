@@ -7,7 +7,7 @@
 ```bash
 print("odeio colica");
 ```
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" height="100">
+<img title="c icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" height="100">
 
 # C
 
