@@ -47,6 +47,24 @@ Sobre Mim
         <br>Python
       </td>
     </tr>
+     <tr>
+      <td align="center" width="96">
+        <img title="JavaScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img title="HTML" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img title="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </td>
+       <td align="center" width="96">
+        <img title="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="PythonL" />
+        <br>Python
+      </td>
+    </tr>
     <tr>
                  <td align="center" width="96">
         <img title="NodeJS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS" />
