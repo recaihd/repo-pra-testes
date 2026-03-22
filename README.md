@@ -54,7 +54,7 @@ Sobre Mim
       </td>
       <td align="center" width="96">
         <img title="Typescript" src="https://github.com/recaihd/skill-icons2/blob/main/assets/typescript.svg" width="48" height="48" alt="Typescript" />
-        <br>
+        <br>Typescript
       </td>
       <td align="center" width="96">
         <img title="C" src="https://github.com/recaihd/skill-icons2/blob/main/assets/c.svg" width="48" height="48" alt="C" />
