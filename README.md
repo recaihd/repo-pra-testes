@@ -43,26 +43,26 @@ Sobre Mim
         <br>CSS
       </td>
        <td align="center" width="96">
-        <img title="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="PythonL" />
+        <img title="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
         <br>Python
       </td>
     </tr>
      <tr>
       <td align="center" width="96">
-        <img title="JavaScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
+        <img title="PostgreSQL" src="https://github.com/recaihd/skill-icons2/blob/main/assets/postgresql-auto.svg" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <img title="HTML" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" height="48" alt="HTML" />
-        <br>HTML
+        <img title="Typescript" src="https://github.com/recaihd/skill-icons2/blob/main/assets/typescript.svg" width="48" height="48" alt="Typescript" />
+        <br>
       </td>
       <td align="center" width="96">
-        <img title="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="48" height="48" alt="CSS" />
-        <br>CSS
+        <img title="C" src="https://github.com/recaihd/skill-icons2/blob/main/assets/c.svg" width="48" height="48" alt="C" />
+        <br>C
       </td>
        <td align="center" width="96">
-        <img title="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="PythonL" />
-        <br>Python
+        <img title="Tauri" src="https://github.com/recaihd/skill-icons2/blob/main/assets/tauri-auto.svg" width="48" height="48" alt="Tauri" />
+        <br>Tauri
       </td>
     </tr>
     <tr>
