@@ -15,7 +15,7 @@ Sobre Mim
 
 <h3 align="center">
 
-  Desenvolvo sites, bots, aplicações
+  Desenvolvo sites, bots, aplicativos
 </p>
 
 
