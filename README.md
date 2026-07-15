@@ -53,8 +53,8 @@ Sobre Mim
         <br>NodeJS
       </td>
       <td align="center" width="96">
-        <img title="Vscode" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="48" height="48" alt="Github" />
-        <br>Vscode
+        <img title="TypeScript" src="https://github.com/recaihd/skill-icons2/blob/main/assets/typescript.svg" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
       </td>
       <td align="center" width="96">
         <img title="C++" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cpp.svg" width="48" height="48" alt="Vscode" />
