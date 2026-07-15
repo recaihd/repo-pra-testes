@@ -15,7 +15,7 @@ Sobre Mim
 
 <h3 align="center">
 
-  Eu modero alguns servidores no Discord, desenvolvo sites e bots
+  Desenvolvo sites, bots, aplicações
 </p>
 
 
