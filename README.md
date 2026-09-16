@@ -3,7 +3,7 @@
 <!-- aaaaaasd -->
 
 <p align="center">
-<img title="console.log(recaida)" src="https://i.postimg.cc/135GWXMm/banner.png" height="500px" widht="800px" />
+<img title="console.log(recaida)" src="https://i.postimg.cc/d1KDxSvN/Recai-HD-wallpaper-1280x720-under-1MB.webp" height="500px" widht="800px" />
 </p>
 
 
